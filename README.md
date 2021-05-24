@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hipmonkey11
 - 👀 I’m interested in data-analytics
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me hipmonkey.11@gmail.com
 
