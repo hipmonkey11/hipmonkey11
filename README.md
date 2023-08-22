@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm RAJ PREETAM SINGH</h1>
 <h3 align="center">A passionate programmer from India</h3>
 
-- 🌱 I’m currently learning **Data Analysis and Data visualization**
+- 🌱 Web Dev
 
 - 📫 How to reach me : **hipmonkey.11@gmail.com**
 
